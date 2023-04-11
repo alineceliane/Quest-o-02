@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>bolo de milho</title>
+    <link rel="stylesheet" href="bolo.css">
+</head>
+<body>
+    <div>
+        <h1> Receita de bolo </h1>
+    </div>
+
+    <div id="teste" >
+    
+        
+            <div>  
+                <div>
+                     <h2 class="igredientes1"> Igredientes: </h2> 
+
+                </div>
+
+                <div>
+                    <p>
+                         <ul class="igredientes1">
+                            
+                            <li> 1 xícara(chá) de açúcar</li>
+                            <li> ¾ xícara(chá) de margarina Deline</li>
+                            <li>2 ovos</li>
+                            <li>1 lata de milho verde escorrido ou 2 espigas de milho debulhadas</li>
+                            <li> 1 xícara(chá) de leite</li>
+                        </ul>
+                    </p>
+
+                </div>
+
+                <div>
+                    <p>
+                        <ul class="igredientes2">
+                            <li> 1 xícara(chá) de fubá</li>
+                            <li>1 colher(sopa) de fermento em pó</li>
+                            <li> Açúcar para polvilhar</li>
+                            <li> Canela em pó para polvilhar </li>
+        
+                        </ul>
+                    </p>
+                </div>
+
+                <div>
+
+                    <h2 class= "preparo1">Modo de prepardo</h2>
+                    <p class="preparo1"> 
+                        Em um liquidificador, bata o açúcar com a margarina e os ovos.<br> 
+                        Adicione o milho verde, o leite de coco e por último o fubá. <br> 
+                        Bata delicadamente e acrescente o fermento.Misture e despeje <br> 
+                        a massa em uma forma redonda com furo central (tamanho: 24cm de diâmetro) <br> 
+                        untada levemente com margarina e polvilhada com açúcar e canela.<br> 
+                    </p>
+                </div>
+
+                <div>
+                    <p class="preparo2">
+                        Leve para assar em forno preaquecido (180°C) por cerca de 30 minutos<br> 
+                        ou até que ao espetar um palito este saia limpo. Retire do forno, <br> 
+                        espere amornar e desenforme. Se desejar, polvilhe mais canela em pó no bolo <br> 
+                        desenformado.<br> 
+                    </p>
+                </div>
+    
+    
+                
+    
+            </div>
+        
+    </div>
+    
+</body>
+</html>
